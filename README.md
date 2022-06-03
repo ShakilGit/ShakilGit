@@ -14,8 +14,6 @@ Skills: JavaScript / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakilGit&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakilGit)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ShakilGit)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShakilGit)  
