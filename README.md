@@ -1,6 +1,6 @@
 ## Assalamuowalaikum...
-### My name is <p color= "red">Md. Shakil Ahammad</p>
-#### Software Engineer
+### My name is Md. Shakil Ahammad
+### Software Engineer
 
 I'm a student of Software Engineering department.
 
