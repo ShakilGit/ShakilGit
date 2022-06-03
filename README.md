@@ -1,13 +1,12 @@
 ## Assalamuowalaikum...
 ### My name is Md. Shakil Ahammad
-### Software Engineer
 
 I'm a student of Software Engineering department.
 
-Skills: PYTHON / HTML / CSS
+Skills: JavaScript / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PYTHON 
+- 🔭 I’m currently working on JavaScript. 
+- 🌱 I’m currently learning JavaScript. 
 - 📫 How to reach me: shakilahmed21040@gmail.com 
 
 
