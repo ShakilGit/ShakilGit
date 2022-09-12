@@ -3,7 +3,7 @@
 
 I'm a student of Software Engineering department.
 
-Skills: JavaScript / HTML / CSS
+Skills: JavaScript / HTML / CSS / BootStrap
 
 - 🔭 I’m currently working on JavaScript. 
 - 🌱 I’m currently learning JavaScript. 
